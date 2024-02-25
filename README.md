@@ -8,4 +8,4 @@ Une fois l'op terminé tout vos liens seront dans votre compte mirorrace et une 
 
 Pour ajouter des mirroirs vous trouverez les id dans le tableau sur cette page: https://mirrorace.com/mirrors
 
-Exemple du résultat en image sur mirrorace (300 épisodes uploadé en 15 minutes): https://nsm09.casimages.com/img/2024/02/07//24020705180126665418352324.png
+
