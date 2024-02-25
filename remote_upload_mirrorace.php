@@ -60,9 +60,9 @@ $ch = curl_init();
     $resp = curl_exec($ch);
     $response2 = json_decode($resp, true);
 	
-    echo '<pre>';
-	print_r($response2);//Affichage du json de retour (pour infos, ce qui permet de voir si certains épisodes ont foiré, différence dans les url par example)
-	echo '</pre>';
+echo '<pre>';
+print_r($response2);//Affichage du json de retour (pour infos, ce qui permet de voir si certains épisodes ont foiré, différence dans les url par example)
+echo '</pre>';
 }   
 
 ?>
