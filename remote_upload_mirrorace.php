@@ -11,7 +11,7 @@ $api_token = 'abcdefghijklm123456789'; // yourapitoken / même chose avec l'api 
 
 for ($i = 1; $i <= 100 ; $i ++) {
     $urls = "https://un_site.fr/videos/nom_de_la_serie/nom_episode_" . $i . "_VOSTFR.mp4";
-	//echo $urls . "<br>"; (pour vérif, ne pas toucher si vous ne savez pas ce que vous faites)
+	//echo $urls . "<br>"; (affiche la liste des url pour vérif, ce qui peut être utile pour vérifier qu'il n'y a pas d'url différente dans votre liste)
 	
 $url = $urls; //url file
 
